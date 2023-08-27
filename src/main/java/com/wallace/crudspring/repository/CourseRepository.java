@@ -8,6 +8,4 @@ import com.wallace.crudspring.model.Course;
 @Repository
 public interface CourseRepository extends JpaRepository<Course, Long> {
 
-  
-
 }
